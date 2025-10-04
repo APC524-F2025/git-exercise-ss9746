@@ -1,0 +1,1 @@
+the polynomial_zeros.ipynb does not appear in the commit because .ipynb files were added to .gitignore
