@@ -1,3 +1,4 @@
 Part 1: the polynomial_zeros.ipynb does not appear in the commit because .ipynb files were added to .gitignore
 Part 2: I would like Frank's branch to come back to the rational legendre branch, and not have separate workflows, to bring back Frank's work without conflicts I decided to remove Iris's work and then merge Frank's in. Frank had branched off before Iris made fixes, so I will honor that order and bring back his earlier fix instead
+Part 3: It is challenging to check that an automerge on a single markdown file went smoothly, if each of the sections were separate then we could have just merged two branches with separate unconflicting sections and then later on pulled them together as needed. 
 
